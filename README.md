@@ -6,13 +6,13 @@
 
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-FF7800.svg?style=for-the-badge&logoColor=FF7800" />&nbsp
-  <img src="https://img.shields.io/badge/javaspring-03C75A.svg?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-FF7800.svg?style=for-the-badge&logoColor=whtie" />&nbsp
+  <img src="https://img.shields.io/badge/JavaSpring-03C75A.svg?style=for-the-badge&logoColor=white" />&nbsp
 </div>
 
+<h3 align="center"> Infra </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-5395FD.svg?style=for-the-badge&logoColor=whtie" />&nbsp
 </div>
 
 <br>
