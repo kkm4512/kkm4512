@@ -7,7 +7,7 @@
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/:badgeContent?style=flat&logo=java">
+  <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=javaspring&logoColor=#83B81A" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
